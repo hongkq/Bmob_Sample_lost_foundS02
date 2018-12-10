@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Bmob_Sample_lost_foundS-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout_right.xml",
+        "source": "D:\\Bmob_Sample_lost_foundS-master\\app\\src\\main\\res\\anim\\zoomout_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\Foundlost01\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout_right.xml",
+        "source": "D:\\Android\\work\\Foundlost01\\app\\src\\main\\res\\anim\\zoomout_right.xml"
+    },
+    {
+        "merged": "D:\\Bmob_Sample_lost_foundS-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_top_in.xml",
+        "source": "D:\\Bmob_Sample_lost_foundS-master\\app\\src\\main\\res\\anim\\scale_top_in.xml"
+    },
+    {
+        "merged": "D:\\Bmob_Sample_lost_foundS-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_top_out.xml",
+        "source": "D:\\Bmob_Sample_lost_foundS-master\\app\\src\\main\\res\\anim\\scale_top_out.xml"
+    },
+    {
+        "merged": "D:\\Bmob_Sample_lost_foundS-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin_right.xml",
+        "source": "D:\\Bmob_Sample_lost_foundS-master\\app\\src\\main\\res\\anim\\zoomin_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\Foundlost01\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_top_in.xml",
+        "source": "D:\\Android\\work\\Foundlost01\\app\\src\\main\\res\\anim\\scale_top_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\Foundlost01\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_top_out.xml",
+        "source": "D:\\Android\\work\\Foundlost01\\app\\src\\main\\res\\anim\\scale_top_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\Foundlost01\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin_right.xml",
+        "source": "D:\\Android\\work\\Foundlost01\\app\\src\\main\\res\\anim\\zoomin_right.xml"
+    }
+]

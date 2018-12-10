@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\洪凯庆666\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="D:\Android\work\Foundlost01\app\build\intermediates\pre-dexed\debug\okhttp-3.5.0_7178004c4248ce1f9045a354dd4c3ebdff2803a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\work\Foundlost01\app\libs\bmob_v3.1.1beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b70cca78172af77118481a3f097b542e55e55a6">
+        <dex dex="D:\Android\work\Foundlost01\app\build\intermediates\pre-dexed\debug\bmob_v3.1.1beta_0f728e40555a8a21cda8ba00f1442c83dcf36bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android\work\Foundlost01\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\洪凯庆666\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android\work\Foundlost01\app\build\intermediates\pre-dexed\debug\glide-3.7.0_2c46a67cebcbdcc4adf28cb2b6f2dda25965413f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\洪凯庆666\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\Android\work\Foundlost01\app\build\intermediates\pre-dexed\debug\okio-1.11.0_c9209a05b0073da9ba617a5502b740e7a61740cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\work\Foundlost01\app\libs\picasso-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="D:\Android\work\Foundlost01\app\build\intermediates\pre-dexed\debug\picasso-2.2.0_1f80249d3ef46387b592e664c70aad8f9203813f.jar" />
+    </item>
+
+</items>

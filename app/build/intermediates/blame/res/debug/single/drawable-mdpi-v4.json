@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\work\\Foundlost01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.jpg",
+        "source": "D:\\Android\\work\\Foundlost01\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "D:\\Bmob_Sample_lost_foundS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.jpg",
+        "source": "D:\\Bmob_Sample_lost_foundS-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.jpg"
+    }
+]
